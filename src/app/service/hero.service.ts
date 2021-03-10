@@ -57,7 +57,7 @@ export class HeroService {
     "id": 10,
     "name": "Christie",
     "superPower": "Operator",
-    "address": "Al Jarrahī"
+    "address": "Al Jarrahi"
   }];
 
   getAllHeroes(): Hero[] {

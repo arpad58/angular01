@@ -3,4 +3,6 @@ export class Hero {
   name: string = '';
   superPower: string = '';
   address: string = '';
+
+  constructor() { }
 }
