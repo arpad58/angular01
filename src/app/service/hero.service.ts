@@ -60,9 +60,9 @@ export class HeroService {
     "address": "Al Jarrahi"
   }];
 
+  constructor() { }
+
   getAllHeroes(): Hero[] {
     return this.list;
   }
-
-  constructor() { }
 }
